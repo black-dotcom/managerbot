@@ -5,7 +5,7 @@ Admin_li = ["1707841429"]
 # 通知群聊ID
 Group_li = ["1707841429"]
 
-TOKEN = "6905164106:AAFJ6FwEhEDTz7Sv3yVVEZHBnhzxMrOk7rQ"
+TOKEN = ""
 Bot_name = "manager120Bot"
 
 # 创建一个代理配置字典
